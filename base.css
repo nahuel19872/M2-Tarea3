@@ -42,10 +42,11 @@ aside {
 @media all and (max-width: 800px) {
 	contenedor {
 		display: flex;
+		width: 100%;
 			
 	}
 	
-nav, section, aside{
+nav, ul, li, section, aside{
 	display: flex;
 	width: 100%;
 	
